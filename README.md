@@ -16,4 +16,6 @@ The following cheats are provided:
 - Velocity
 
 ## How to use?
-Build the project with gradle and drag and drop the .jar into your mods folder.
+- Build the project with gradle
+- Drag and drop the .jar into your mods folder
+- Press Right Shift in game to open menu
